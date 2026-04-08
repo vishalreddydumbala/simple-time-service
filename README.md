@@ -124,7 +124,7 @@ docker run -p 3000:3000 <your-username>/simple-time-service
 
 ## 👨‍💻 Author
 
-Your Name
+VISHAL REDDY DUMBALA
 GitHub: https://github.com/vishalreddydumbala
 
 ---
